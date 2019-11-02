@@ -1,0 +1,11 @@
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\obj\Debug\netcoreapp3.0\TarabajoGrupal02.csprojAssemblyReference.cache
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\obj\Debug\netcoreapp3.0\TarabajoGrupal02.AssemblyInfoInputs.cache
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\obj\Debug\netcoreapp3.0\TarabajoGrupal02.AssemblyInfo.cs
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.exe
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.deps.json
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.runtimeconfig.json
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.runtimeconfig.dev.json
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.dll
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\bin\Debug\netcoreapp3.0\TarabajoGrupal02.pdb
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\obj\Debug\netcoreapp3.0\TarabajoGrupal02.dll
+C:\Users\Jarod\source\repos\TarabajoGrupal02\TarabajoGrupal02\obj\Debug\netcoreapp3.0\TarabajoGrupal02.pdb
